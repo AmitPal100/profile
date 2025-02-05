@@ -1,29 +1,30 @@
-Got it! Here’s a bio tailored to you as a second-year BCA student with those skills:
+<h1 align="center">Hi 👋, I'm Amit Pal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpal100&label=Profile%20views&color=0e75b6&style=flat" alt="amitpal100" /> </p>
 
-# Hi there! 👋 I'm [Your Name]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitpal100" alt="amitpal100" /></a> </p>
 
-I'm currently a **2nd-year BCA student** and passionate about learning and growing in the world of programming! I love tackling problems with code and am actively exploring various technologies. Here’s what I’m working with:
+- 🔭 I’m currently working on **Farmer Webpage**
 
-### 💻 Tech Stack:
-- **Languages**: Java, C, C++, C#, Python, HTML, CSS
-- **Web Development**: Front-end with HTML & CSS
-- **Software Development**: Exploring object-oriented programming with Java and C#
-- **Algorithms & Data Structures**: Sharpening my problem-solving skills
+- 🌱 I’m currently learning **Java, c#, Html, css**
 
-### 🌱 Currently Learning:
-- **Web Development**: Diving deeper into front-end frameworks and back-end technologies.
-- **Data Science & AI**: Exploring Python for data analysis and machine learning.
+- 📫 How to reach me **palamitkumarramesh@gmail.com**
 
-### 🎯 Goals:
-- Build real-world applications with the skills I'm learning.
-- Contribute to open-source projects and collaborate with like-minded developers.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/soon..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soon..." height="30" width="40" /></a>
+<a href="https://instagram.com/soon..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soon..." height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/soon..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soon..." height="30" width="40" /></a>
+<a href="https://www.leetcode.com/soon.." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soon.." height="30" width="40" /></a>
+</p>
 
-Feel free to explore my repositories or get in touch if you'd like to collaborate!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitpal100&show_icons=true&locale=en&layout=compact" alt="amitpal100" /></p>
 
-You can personalize this by replacing `[Your Name]` with your actual name, or any additional info you might want to add, such as hobbies or other personal interests!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpal100&show_icons=true&locale=en" alt="amitpal100" /></p>
 
-How does that look to you? Would you like to make any tweaks?
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpal100&" alt="amitpal100" /></p>
+
